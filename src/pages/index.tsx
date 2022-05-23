@@ -25,6 +25,7 @@ export default function Home({product}: HomeProps) {
         />
         <meta property='og:url' content='https://ignews-coral-gamma.vercel.app/' />
         <meta property='og:type' content='website' />
+        <meta property="og:image" content="images/ignews.png"/>
       </Head> 
 
       <main className={styles.contentContainer}>

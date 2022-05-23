@@ -18,6 +18,13 @@ export default function Home({product}: HomeProps) {
     <>
       <Head>
         <title>Home | ig.news</title>
+        <meta property='og:title' content='ig.news' />
+        <meta
+          property='og:description'
+          content='Notícias sobre ReactJS'
+        />
+        <meta property='og:url' content='https://ignews-coral-gamma.vercel.app/' />
+        <meta property='og:type' content='website' />
       </Head> 
 
       <main className={styles.contentContainer}>

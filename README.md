@@ -18,8 +18,11 @@ Your React JS newsletter to stay tuned with this library.
 
 ## Some other pictures of the application:
 
+- Posts List:
 ![image](https://github.com/LucasSousa09/Ignews-Module03-ReactJS/blob/main/public/images/ignews-posts.png)
 
+- Post Paywall:
 ![image](https://github.com/LucasSousa09/Ignews-Module03-ReactJS/blob/main/public/images/ignews-paywall.png)
 
+- Complete Post 
 ![image](https://github.com/LucasSousa09/Ignews-Module03-ReactJS/blob/main/public/images/ignews-post.png)
